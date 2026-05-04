@@ -1,5 +1,7 @@
 # Multi Agent Research Assistant — Agentic RAG + Web Search
 
+
+![System Design](https://github.com/itsMeJunaid/Multi-Agent-Research-Assistant/blob/main/Screenshot%202026-04-30%20at%2015-59-06%20AI%20Research%20Assistant.png)
 A production-grade AI research assistant built with **FastAPI**, **LangGraph**, **Qdrant**, and **Next.js**.
 Upload PDFs or URLs, ask questions, and get AI-generated answers with citations — powered by a multi-agent pipeline.
 
